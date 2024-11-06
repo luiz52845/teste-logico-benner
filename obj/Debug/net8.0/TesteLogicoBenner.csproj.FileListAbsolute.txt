@@ -1,0 +1,14 @@
+C:\code\C#\TesteLogicoBenner\bin\Debug\net8.0\TesteLogicoBenner.exe
+C:\code\C#\TesteLogicoBenner\bin\Debug\net8.0\TesteLogicoBenner.deps.json
+C:\code\C#\TesteLogicoBenner\bin\Debug\net8.0\TesteLogicoBenner.runtimeconfig.json
+C:\code\C#\TesteLogicoBenner\bin\Debug\net8.0\TesteLogicoBenner.dll
+C:\code\C#\TesteLogicoBenner\bin\Debug\net8.0\TesteLogicoBenner.pdb
+C:\code\C#\TesteLogicoBenner\obj\Debug\net8.0\TesteLogicoBenner.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C#\TesteLogicoBenner\obj\Debug\net8.0\TesteLogicoBenner.AssemblyInfoInputs.cache
+C:\code\C#\TesteLogicoBenner\obj\Debug\net8.0\TesteLogicoBenner.AssemblyInfo.cs
+C:\code\C#\TesteLogicoBenner\obj\Debug\net8.0\TesteLogicoBenner.csproj.CoreCompileInputs.cache
+C:\code\C#\TesteLogicoBenner\obj\Debug\net8.0\TesteLogicoBenner.dll
+C:\code\C#\TesteLogicoBenner\obj\Debug\net8.0\refint\TesteLogicoBenner.dll
+C:\code\C#\TesteLogicoBenner\obj\Debug\net8.0\TesteLogicoBenner.pdb
+C:\code\C#\TesteLogicoBenner\obj\Debug\net8.0\TesteLogicoBenner.genruntimeconfig.cache
+C:\code\C#\TesteLogicoBenner\obj\Debug\net8.0\ref\TesteLogicoBenner.dll
